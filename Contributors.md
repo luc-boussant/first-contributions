@@ -149,7 +149,8 @@ Aryan Gupta (@withoutwaxaryan)
 - [Zein Hajj-Ali](https://github.com/ZeinHajjAli)
 - [Kyle DeHoff] (https://github.com/anonymousMonk)
 - [Mushfiqul Islam Chowdhury](https://github.com/mushfiqulIslam)
-- Jack Burton (https://github.com/Saltey/)
+- Jack Burton (https://github.com/Saltey/) 
+- Boussant -roux Luc
 - Spencer Peace
 - Molly Johnson
 - Titan
